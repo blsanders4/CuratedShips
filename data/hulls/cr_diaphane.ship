@@ -1,0 +1,148 @@
+{
+    "hullName": "Diaphane",
+    "hullId": "cr_diaphane",
+    "hullSize": "DESTROYER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/hulls/cr_diaphane.png",
+    "height": 153,
+    "width": 132,
+    "center": [
+        66, 76.5
+    ],
+    "collisionRadius": 115,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 112,
+    "viewOffset": 0,
+    "builtInMods": [
+        "hiressensors",
+        "surveying_equipment",
+        "efficiency_overhaul"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    44.5,       38
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 45,
+            "locations": [
+                     -36,     48.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 315,
+            "locations": [
+                     -36,    -48.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                    30.5,       47
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -32,        7,
+                     -32,       -7,
+                   -26.5,        7,
+                   -26.5,       -7,
+                   -20.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -74, 27
+            ],
+            "length": 32,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -71, 18.5
+            ],
+            "length": 42,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -71, -18.5
+            ],
+            "length": 42,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -74, -27
+            ],
+            "length": 32,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+             -37,       50,
+              -9,       62,
+            34.5,     54.5,
+              65,       20,
+              49,    -49.5,
+        
+              -9,      -62,
+             -37,      -50,
+           -55.5,      -61,
+           -70.5,      -53,
+           -73.5,    -23.5,
+        
+           -49.5,        0,
+           -73.5,     23.5,
+           -70.5,       53,
+           -55.5,       61
+    # 14 points total.
+    ]
+}

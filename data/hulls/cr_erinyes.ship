@@ -1,0 +1,201 @@
+{
+    "hullName": "Erinyes",
+    "hullId": "cr_erinyes",
+    "hullSize": "CRUISER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/hulls/cr_erinyes.png",
+    "height": 199,
+    "width": 156,
+    "center": [
+        78, 99.5
+    ],
+    "collisionRadius": 142,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 132,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS0001",
+            "size": "LARGE",
+            "type": "ENERGY",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    37.5,      -33
+            ]
+        },
+        {
+            "id": "WS0002",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    89.5,       20
+            ]
+        },
+        {
+            "id": "WS0003",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    82.5,       -8
+            ]
+        },
+        {
+            "id": "WS0004",
+            "size": "MEDIUM",
+            "type": "SYNERGY",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    65.5,       43
+            ]
+        },
+        {
+            "id": "WS0005",
+            "size": "MEDIUM",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 215,
+            "angle": 45,
+            "locations": [
+                    29.5,       35
+            ]
+        },
+        {
+            "id": "WS0006",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 225,
+            "angle": 15,
+            "locations": [
+                    68.5,       14
+            ]
+        },
+        {
+            "id": "WS0007",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 225,
+            "angle": 125,
+            "locations": [
+                   -47.5,       58
+            ]
+        },
+        {
+            "id": "WS0008",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 225,
+            "angle": 235,
+            "locations": [
+                   -47.5,      -58
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -77, -48.5
+            ],
+            "length": 38,
+            "width": 12,
+            "angle": -180,
+            "contrailSize": 42,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -77, 48.5
+            ],
+            "length": 38,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 42,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -97, -11.5
+            ],
+            "length": 52,
+            "width": 16,
+            "angle": -180,
+            "contrailSize": 44,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -97, 11.5
+            ],
+            "length": 52,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 44,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -90, 29.5
+            ],
+            "length": 48,
+            "width": 14,
+            "angle": 180,
+            "contrailSize": 40,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -90, -29.5
+            ],
+            "length": 48,
+            "width": 14,
+            "angle": 180,
+            "contrailSize": 40,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+           -96.5,      -18,
+           -96.5,       18,
+           -73.5,       58,
+           -48.5,       73,
+             -34,       73,
+        
+             -15,       47,
+              15,     68.5,
+              30,     68.5,
+            56.5,       54,
+              76,       53,
+        
+            76.5,     32.5,
+            95.5,       25,
+            87.5,      -13,
+              54,      -24,
+            57.5,      -51,
+        
+            32.5,    -67.5,
+              15,    -68.5,
+             -15,      -47,
+             -34,      -73,
+           -48.5,      -73,
+        
+           -73.5,      -58
+    # 21 points total.
+    ]
+}

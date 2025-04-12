@@ -1,0 +1,31 @@
+{
+	"baseHullId":"cr_auxilia",
+	"skinHullId":"cr_auxilia_xiv",
+	"hullName":"Auxilia (XIV)",
+	"incompatibleWithBaseHull":true, # for the autofit dialog	
+	"descriptionId":"cr_auxilia",
+	"descriptionPrefix":"Built to the specifications of the 14th Domain Battlegroup which founded the Hegemony, this vessel is a prime example of the Domain Navy's 'decisive battle' doctrine, particularly exhibited by a series of radical structural modifications performed using pre-Collapse industrial technology.",
+	"tags":["XIV_bp", "hist3t"],
+	"tech":"XIV Battlegroup",
+	"fleetPoints":12,
+	"ordnancePoints":155,
+	"baseValueMult":1.75,
+	"spriteName":"graphics/hulls/cr_auxilia_xiv.png",
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInMods":["fourteenth"],
+	"builtInWeapons":{
+    },
+    "weaponSlotChanges":{
+	   "WS 000":{
+		  "type": "MISSILE",
+	   },
+	   "WS 001":{
+		  "type": "BALLISTIC",
+	   },
+	   "WS 002":{
+		  "type": "BALLISTIC",
+	   },
+    },
+}

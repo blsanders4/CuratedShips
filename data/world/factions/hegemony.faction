@@ -1,0 +1,21 @@
+{
+        "knownShips":{
+        "hulls":[		
+			"cr_auxilia",
+			"cr_auxilia_xiv",
+        ],
+            },
+			"priorityShips":{
+		"hulls":[
+			"cr_auxilia",
+			"cr_auxilia_xiv",
+		],
+	},
+        "hullFrequency":{
+        "hulls":{
+			"cr_auxilia": 0.8,
+			"cr_auxilia_xiv": 0.8,
+        },
+    },
+
+},
