@@ -1,0 +1,41 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+
+	"combatCapital":{
+	},
+	"combatLarge":{
+	},
+    	"combatSmallForSmallFleet":{
+	},
+        "combatSmall":{
+		"cr_matchlock_attack":5,
+		"cr_matchlock_strike":3,
+		"cr_cataphract_attack":3,
+		"cr_cataphract_strike":2,
+	},
+		"combatMedium":{
+		"cr_erinyes_strike":2,
+		"cr_erinyes_attack":3,
+		"cr_erinyes_support":3,
+		"cr_spirit_attack":4,
+		"cr_spirit_escort":2,
+		"cr_spirit_support":3,		
+		"cr_valravn_strike":3,
+		"cr_valravn_support":2,
+	},	
+	    "carrierSmall":{
+		"cr_diaphane_frontier":6,
+	},
+	"carrierMedium":{
+		"cr_auxilia_attack":6,
+		"cr_auxilia_support":4,
+		"cr_auxilia_xiv_elite":6,
+	},
+	"combatFreighterLarge":{
+
+	},
+	"civilianRandom":{
+
+	},
+}
