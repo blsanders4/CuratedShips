@@ -2,7 +2,7 @@
   "id":"CuratedShips",
 	"name":"CuratedShips",
 	"author":"Kelsier",	
-	"version":"v1",
+	"version":"2",
 	"description":"more ships",
-    "gameVersion":"0.98a-RC5",
+    "gameVersion":"0.98a-RC7",
 }

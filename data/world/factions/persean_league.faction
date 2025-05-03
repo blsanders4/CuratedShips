@@ -3,6 +3,7 @@
         "hulls":[		
 			"cr_valravn",
 			"cr_matchlock",
+			"cr_roc",
         ],
             },
 			"priorityShips":{
@@ -13,8 +14,13 @@
         "hullFrequency":{
         "hulls":{
             "cr_valravn":0.6,
-			"cr_matchlock":0.5,			
+			"cr_matchlock":0.5,
+			"cr_roc":5,		
         },
     },
-
+	"factionDoctrine":{
+		"warships":5,
+		"carriers":1,
+		"phaseShips":0,
+	},
 },

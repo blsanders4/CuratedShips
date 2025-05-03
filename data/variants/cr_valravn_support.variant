@@ -1,7 +1,7 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 2,
-    "fluxVents": 7,
+    "fluxCapacitors": 5,
+    "fluxVents": 14,
     "goalVariant": true,
     "hullId": "cr_valravn",
     "hullMods": [

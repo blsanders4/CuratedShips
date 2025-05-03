@@ -1,7 +1,7 @@
 {
     "displayName": "Strike",
-    "fluxCapacitors": 5,
-    "fluxVents": 12,
+    "fluxCapacitors": 7,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "cr_valravn",
     "hullMods": [

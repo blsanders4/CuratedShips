@@ -1,0 +1,42 @@
+{
+    "displayName": "Interceptor",
+    "fluxCapacitors": 38,
+    "fluxVents": 15,
+    "goalVariant": true,
+    "hullId": "cr_roc",
+    "hullMods": [
+        "expanded_deck_crew",
+        "targetingunit"
+    ],
+    "quality": 0.0,
+    "variantId": "cr_roc_interceptor",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "dualflak",
+                "WS 001": "dualflak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 008": "lrpdlaser",
+                "WS 007": "lrpdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "thunder_wing",
+        "thunder_wing",
+        "thunder_wing",
+        "thunder_wing"
+    ]
+}

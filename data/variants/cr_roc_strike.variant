@@ -1,0 +1,42 @@
+{
+    "displayName": "Strike",
+    "fluxCapacitors": 25,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "cr_roc",
+    "hullMods": [
+        "expanded_deck_crew",
+        "targetingunit"
+    ],
+    "quality": 0.0,
+    "variantId": "cr_roc_strike",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "dualflak",
+                "WS 000": "dualflak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 008": "pdlaser",
+                "WS 007": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 004": "pdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "dagger_wing",
+        "dagger_wing",
+        "broadsword_wing",
+        "broadsword_wing"
+    ]
+}

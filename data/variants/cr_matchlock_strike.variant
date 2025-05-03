@@ -1,18 +1,18 @@
 {
     "displayName": "Strike",
-    "fluxCapacitors": 7,
-    "fluxVents": 7,
+    "fluxCapacitors": 5,
+    "fluxVents": 10,
     "goalVariant": true,
     "hullId": "cr_matchlock",
     "hullMods": [],
     "variantId": "cr_matchlock_strike",
     "weaponGroups": [
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "lightneedler",
-                "WS 002": "lightneedler"
+                "WS 002": "railgun",
+                "WS 001": "railgun"
             }
         },
         {
@@ -23,10 +23,10 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 003": "pdlaser"
+                "WS 003": "lrpdlaser"
             }
         }
     ]

@@ -1,0 +1,42 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 45,
+    "fluxVents": 18,
+    "goalVariant": true,
+    "hullId": "cr_roc",
+    "hullMods": [
+        "expanded_deck_crew",
+        "targetingunit"
+    ],
+    "quality": 0.0,
+    "variantId": "cr_roc_attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "dualflak",
+                "WS 000": "dualflak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pdlaser",
+                "WS 003": "pdlaser",
+                "WS 008": "pdlaser",
+                "WS 007": "pdlaser",
+                "WS 006": "pdlaser",
+                "WS 005": "pdlaser",
+                "WS 004": "pdlaser"
+            }
+        }
+    ],
+    "wings": [
+        "gladius_wing",
+        "gladius_wing",
+        "talon_wing",
+        "claw_wing"
+    ]
+}

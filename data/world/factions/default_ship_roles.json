@@ -3,7 +3,14 @@
 	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
 
 	"combatCapital":{
+		"cr_nausicaa_elite":3,
+		"cr_nausicaa_standard":3,
 	},
+	"carrierLarge":{
+		"cr_roc_attack":5,
+		"cr_roc_strike":5,
+		"cr_roc_interceptor":8,
+	},	
 	"combatLarge":{
 	},
     	"combatSmallForSmallFleet":{
@@ -25,15 +32,15 @@
 		"cr_valravn_support":2,
 	},	
 	    "carrierSmall":{
-		"cr_diaphane_frontier":6,
+
 	},
 	"carrierMedium":{
 		"cr_auxilia_attack":6,
 		"cr_auxilia_support":4,
 		"cr_auxilia_xiv_elite":6,
 	},
-	"combatFreighterLarge":{
-
+	"combatFreighterMedium":{
+		"cr_diaphane_frontier":6,
 	},
 	"civilianRandom":{
 

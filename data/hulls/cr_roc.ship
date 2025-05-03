@@ -1,0 +1,266 @@
+{
+    "hullName": "Roc",
+    "hullId": "cr_roc",
+    "hullSize": "CAPITAL_SHIP",
+    "style": "MIDLINE",
+    "spriteName": "graphics/hulls/cr_roc.png",
+    "height": 348,
+    "width": 218,
+    "center": [
+        109, 174
+    ],
+    "collisionRadius": 235,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 225,
+    "viewOffset": 0,
+    "builtInMods": [
+        "recovery_shuttles"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 150,
+            "angle": 90,
+            "locations": [
+                     -43,       32
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 150,
+            "angle": 270,
+            "locations": [
+                     -43,      -32
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 150,
+            "angle": 180,
+            "locations": [
+                     -93,        0
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 55,
+            "locations": [
+                      95,       56
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 305,
+            "locations": [
+                      95,      -56
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 90,
+            "locations": [
+                      11,       69
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 270,
+            "locations": [
+                      11,      -69
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 215,
+            "angle": 115,
+            "locations": [
+                     -76,       83
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 215,
+            "angle": 245,
+            "locations": [
+                     -76,      -83
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    43.5,      9.5,
+                      24,       14,
+                     9.5,       25,
+                    22.5,       36,
+                    38.5,       39
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    43.5,     -9.5,
+                      24,      -14,
+                     9.5,      -25,
+                    22.5,      -36,
+                    38.5,      -39
+            ]
+        },
+        {
+            "id": "LB 002",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      67,       35,
+                      79,     13.5,
+                    91.5,       22,
+                   107.5,       33,
+                      57,       22
+            ]
+        },
+        {
+            "id": "LB 003",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      67,      -35,
+                      79,    -13.5,
+                    91.5,      -22,
+                   107.5,      -33,
+                      57,      -22
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -160.5, 45
+            ],
+            "length": 44,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 7,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -171.5, 19.5
+            ],
+            "length": 68,
+            "width": 20,
+            "angle": -180,
+            "contrailSize": 29,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -171.5, -19.5
+            ],
+            "length": 68,
+            "width": 20,
+            "angle": -180,
+            "contrailSize": 29,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -160.5, -45
+            ],
+            "length": 44,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 7,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -169.5, 8
+            ],
+            "length": 44,
+            "width": 12,
+            "angle": -180,
+            "contrailSize": 28,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -169.5, -8
+            ],
+            "length": 44,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 28,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+             142,        0,
+             142,        0,
+             171,    -45.5,
+              75,    -87.5,
+           -18.5,    -87.5,
+        
+             -43,      -75,
+             -89,   -107.5,
+            -169,    -39.5,
+            -169,     39.5,
+             -89,    107.5,
+        
+             -43,       75,
+           -18.5,     87.5,
+              75,     87.5,
+             171,     45.5
+    # 14 points total.
+    ]
+}
