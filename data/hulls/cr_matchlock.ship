@@ -75,7 +75,7 @@
             "length": 22,
             "width": 6,
             "angle": 180,
-            "contrailSize": 4,
+            "contrailSize": 24,
             "style": "MIDLINE"
         },
         {
@@ -85,7 +85,7 @@
             "length": 22,
             "width": 6,
             "angle": -180,
-            "contrailSize": 4,
+            "contrailSize": 24,
             "style": "MIDLINE"
         },
         {

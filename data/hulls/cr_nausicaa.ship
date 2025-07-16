@@ -3,7 +3,7 @@
     "hullId": "cr_nausicaa",
     "hullSize": "CAPITAL_SHIP",
     "style": "HIGH_TECH",
-    "spriteName": "graphics/hulls/cr_nausicaa.png",
+    "spriteName": "mods/CuratedShips x5 Cost/graphics/hulls/cr_nausicaa.png",
     "height": 334,
     "width": 210,
     "center": [
@@ -213,51 +213,51 @@
     "engineSlots": [
         {
             "location": [
-                -143.5, 70.5
+                -143, 71
             ],
             "length": 28,
             "width": 6,
-            "angle": 180,
+            "angle": 155,
             "contrailSize": 22,
             "style": "HIGH_TECH"
         },
         {
             "location": [
-                -143.5, -70.5
+                -143, -71
             ],
             "length": 28,
             "width": 6,
-            "angle": 180,
+            "angle": 205,
             "contrailSize": 22,
             "style": "HIGH_TECH"
         },
         {
             "location": [
-                -144.5, 66
+                -144, 66
             ],
             "length": 28,
             "width": 6,
-            "angle": 180,
+            "angle": 159,
             "contrailSize": 22,
             "style": "HIGH_TECH"
         },
         {
             "location": [
-                -145.5, 61.5
+                -145, 61
             ],
             "length": 28,
             "width": 6,
-            "angle": 180,
+            "angle": 162,
             "contrailSize": 22,
             "style": "HIGH_TECH"
         },
         {
             "location": [
-                -145.5, -61.5
+                -145, -61
             ],
             "length": 28,
             "width": 6,
-            "angle": 180,
+            "angle": 198,
             "contrailSize": 22,
             "style": "HIGH_TECH"
         },
@@ -413,11 +413,11 @@
         },
         {
             "location": [
-                -144.5, -66
+                -144, -66
             ],
             "length": 28,
             "width": 6,
-            "angle": 180,
+            "angle": 201,
             "contrailSize": 22,
             "style": "HIGH_TECH"
         }

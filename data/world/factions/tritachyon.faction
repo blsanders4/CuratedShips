@@ -4,6 +4,7 @@
 			"cr_erinyes",
 			"cr_spirit",
 			"cr_nausicaa",
+			"cr_wisp",
         ],
             },
 			"priorityShips":{
@@ -13,9 +14,10 @@
 	},
         "hullFrequency":{
         "hulls":{
-            "cr_erinyes":0.4,
+            		"cr_erinyes":0.6,
 			"cr_spirit":0.6,
-			"cr_nausicaa":0.7,
+			"cr_nausicaa":0.8,
+			"cr_wisp":0.7,
         },
     },
 

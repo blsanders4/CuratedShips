@@ -3,13 +3,13 @@
 	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
 
 	"combatCapital":{
-		"cr_nausicaa_elite":3,
-		"cr_nausicaa_standard":3,
+		"cr_nausicaa_elite":5,
+		"cr_nausicaa_standard":4,
 	},
 	"carrierLarge":{
-		"cr_roc_attack":5,
-		"cr_roc_strike":5,
-		"cr_roc_interceptor":8,
+		"cr_roc_attack":10,
+		"cr_roc_strike":10,
+		"cr_roc_interceptor":15,
 	},	
 	"combatLarge":{
 	},
@@ -18,8 +18,8 @@
         "combatSmall":{
 		"cr_matchlock_attack":5,
 		"cr_matchlock_strike":3,
-		"cr_cataphract_attack":3,
-		"cr_cataphract_strike":2,
+		"cr_cataphract_attack":4,
+		"cr_cataphract_strike":4,
 	},
 		"combatMedium":{
 		"cr_erinyes_strike":2,
@@ -28,21 +28,24 @@
 		"cr_spirit_attack":4,
 		"cr_spirit_escort":2,
 		"cr_spirit_support":3,		
-		"cr_valravn_strike":3,
-		"cr_valravn_support":2,
+		"cr_valravn_strike":4,
+		"cr_valravn_support":3,
 	},	
 	    "carrierSmall":{
-
+		"cr_auxilia_attack":8,
+		"cr_auxilia_support":6,
+		"cr_auxilia_xiv_elite":10,
 	},
 	"carrierMedium":{
-		"cr_auxilia_attack":6,
-		"cr_auxilia_support":4,
-		"cr_auxilia_xiv_elite":6,
+
 	},
 	"combatFreighterMedium":{
 		"cr_diaphane_frontier":6,
 	},
-	"civilianRandom":{
-
+	"freighterSmall":{
+		"cr_wisp_stealth":1,
+	},
+	"tankerSmall":{
+		"cr_wisp_stealth":1,
 	},
 }

@@ -1,0 +1,82 @@
+{
+    "hullName": "Wisp",
+    "hullId": "cr_wisp",
+    "hullSize": "FRIGATE",
+    "style": "HIGH_TECH",
+    "spriteName": "mods/CuratedShips/graphics/hulls/cr_wisp.png",
+    "height": 113,
+    "width": 94,
+    "center": [
+        47, 56.5
+    ],
+    "collisionRadius": 80,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 70,
+    "viewOffset": 0,
+    "builtInMods": [
+        "delicate",
+        "phasefield",
+        "shielded_holds"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "SYSTEM",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    52.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -51, 13
+            ],
+            "length": 34,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 4,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -54, 0
+            ],
+            "length": 48,
+            "width": 13,
+            "angle": -180,
+            "contrailSize": 4,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -51, -13
+            ],
+            "length": 34,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 4,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+              52,     -8.5,
+             8.5,    -41.5,
+             -14,    -43.5,
+             -53,    -15.5,
+             -53,     15.5,
+        
+             -14,     43.5,
+             8.5,     41.5,
+              52,      8.5
+    ]
+}

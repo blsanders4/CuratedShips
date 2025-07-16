@@ -11,7 +11,7 @@
 	},
         "hullFrequency":{
         "hulls":{
-            "cr_cataphract":0.6,
+            "cr_cataphract":0.8,
         },
     },
 

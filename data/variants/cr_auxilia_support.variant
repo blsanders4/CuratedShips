@@ -1,51 +1,44 @@
 {
     "displayName": "Support",
-    "fluxCapacitors": 3,
-    "fluxVents": 20,
+    "fluxCapacitors": 12,
+    "fluxVents": 18,
     "goalVariant": true,
     "hullId": "cr_auxilia",
     "hullMods": [
         "targetingunit",
         "ballistic_rangefinder",
-        "missleracks"
+        "missleracks",
+        "escort_package"
     ],
     "quality": 0.0,
     "variantId": "cr_auxilia_support",
     "weaponGroups": [
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 000": "gauss"
+                "WS 000": "heavyac"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "harpoonpod",
-                "WS 001": "harpoonpod"
+                "WS 001": "swarmer",
+                "WS 002": "swarmer"
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "railgun",
-                "WS 003": "railgun"
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 006": "mininglaser",
-                "WS 005": "mininglaser"
+                "WS 003": "lightac",
+                "WS 004": "lightac"
             }
         }
     ],
     "wings": [
-        "broadsword_wing",
-        "broadsword_wing"
+        "talon_wing",
+        "talon_wing"
     ]
 }

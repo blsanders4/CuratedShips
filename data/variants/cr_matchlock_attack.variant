@@ -8,11 +8,11 @@
     "variantId": "cr_matchlock_attack",
     "weaponGroups": [
         {
-            "autofire": false,
-            "mode": "LINKED",
+            "autofire": true,
+            "mode": "ALTERNATING",
             "weapons": {
-                "WS 001": "lightac",
-                "WS 002": "lightac"
+                "WS 002": "lightac",
+                "WS 001": "lightac"
             }
         },
         {
@@ -23,7 +23,7 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS 003": "pdlaser"

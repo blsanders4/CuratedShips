@@ -167,7 +167,7 @@
             "length": 16,
             "width": 4,
             "angle": 180,
-            "contrailSize": 12,
+            "contrailSize": 24,
             "style": "HIGH_TECH"
         },
         {
@@ -187,7 +187,7 @@
             "length": 25,
             "width": 8,
             "angle": 180,
-            "contrailSize": 12,
+            "contrailSize": 18,
             "style": "HIGH_TECH"
         },
         {
@@ -197,7 +197,7 @@
             "length": 18,
             "width": 5,
             "angle": 180,
-            "contrailSize": 12,
+            "contrailSize": 18,
             "style": "HIGH_TECH"
         },
         {
@@ -237,7 +237,7 @@
             "length": 22,
             "width": 7,
             "angle": 180,
-            "contrailSize": 12,
+            "contrailSize": 22,
             "style": "HIGH_TECH"
         },
         {

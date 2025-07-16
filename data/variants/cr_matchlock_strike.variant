@@ -1,7 +1,7 @@
 {
     "displayName": "Strike",
-    "fluxCapacitors": 5,
-    "fluxVents": 10,
+    "fluxCapacitors": 7,
+    "fluxVents": 9,
     "goalVariant": true,
     "hullId": "cr_matchlock",
     "hullMods": [],
@@ -9,7 +9,7 @@
     "weaponGroups": [
         {
             "autofire": true,
-            "mode": "LINKED",
+            "mode": "ALTERNATING",
             "weapons": {
                 "WS 002": "railgun",
                 "WS 001": "railgun"
@@ -26,7 +26,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 003": "lrpdlaser"
+                "WS 003": "pdlaser"
             }
         }
     ]

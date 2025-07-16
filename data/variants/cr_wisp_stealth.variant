@@ -1,0 +1,16 @@
+{
+    "displayName": "Stealth",
+    "fluxCapacitors": 6,
+    "fluxVents": 1,
+    "goalVariant": true,
+    "hullId": "cr_wisp",
+    "hullMods": [
+        "insulatedengine",
+        "unstable_injector",
+        "auxiliary_fuel_tanks",
+        "phase_anchor"
+    ],
+    "quality": 0.0,
+    "variantId": "cr_wisp_stealth",
+    "weaponGroups": []
+}
