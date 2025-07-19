@@ -8,7 +8,7 @@
 	"tags":["XIV_bp", "hist3t"],
 	"tech":"XIV Battlegroup",
 	"fleetPoints":12,
-	"ordnancePoints":155,
+	"ordnancePoints":100,
 	"baseValueMult":1.75,
 	"spriteName":"graphics/hulls/cr_auxilia_xiv.png",
 	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file

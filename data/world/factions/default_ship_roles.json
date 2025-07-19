@@ -18,6 +18,8 @@
         "combatSmall":{
 		"cr_matchlock_attack":5,
 		"cr_matchlock_strike":3,
+		"cr_matchlock_LG_attack":5,
+		"cr_matchlock_LG_strike":3,
 		"cr_cataphract_attack":4,
 		"cr_cataphract_strike":4,
 	},

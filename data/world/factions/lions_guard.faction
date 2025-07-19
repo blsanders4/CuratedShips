@@ -1,7 +1,7 @@
 {
         "knownShips":{
         "hulls":[		
-			"cr_matchlock",
+			"cr_matchlock_LG",
         ],
             },
 			"priorityShips":{
@@ -11,7 +11,7 @@
 	},
         "hullFrequency":{
         "hulls":{
-			"cr_matchlock":0.5,		
+            "cr_matchlock_LG":555,
         },
     },
 
