@@ -1,7 +1,7 @@
 {
         "knownShips":{
         "hulls":[		
-			"cr_matchlock_LG",
+			"cr_viper_LG",
         ],
             },
 			"priorityShips":{
@@ -11,7 +11,7 @@
 	},
         "hullFrequency":{
         "hulls":{
-            "cr_matchlock_LG":555,
+            "cr_viper_LG":555,
         },
     },
 

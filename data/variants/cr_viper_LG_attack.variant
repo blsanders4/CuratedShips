@@ -1,0 +1,34 @@
+{
+    "displayName": "Attack",
+    "fluxCapacitors": 5,
+    "fluxVents": 8,
+    "goalVariant": false,
+    "hullId": "cr_viper_LG",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "cr_viper_LG_attack",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "ioncannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "swarmer"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "irpulse",
+                "WS 001": "irpulse"
+            }
+        }
+    ]
+}

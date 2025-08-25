@@ -17,4 +17,10 @@
 			"cr_auxilia_xiv": 1,
         },
     },
+	"knownFighters":{
+		"tags":["hegemony"],
+		"fighters":[
+			"cr_kestros_wing",
+		],
+	},	
 },

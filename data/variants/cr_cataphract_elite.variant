@@ -1,0 +1,36 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 7,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "cr_cataphract",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "cr_cataphract_elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavyneedler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "heavymauler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightmg",
+                "WS 005": "lightmg",
+                "WS 003": "lightdualmg",
+                "WS 002": "lightdualmg"
+            }
+        }
+    ]
+}

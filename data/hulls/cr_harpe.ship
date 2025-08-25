@@ -1,0 +1,75 @@
+{
+    "hullName": "Harpe",
+    "hullId": "cr_harpe",
+    "hullSize": "FIGHTER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/hulls/cr_harpe.png",
+    "height": 35,
+    "width": 36,
+    "center": [
+        19, 19
+    ],
+    "collisionRadius": 34,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 30,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                       0,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -18.5, 0
+            ],
+            "length": 28,
+            "width": 14,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -19.5, 12
+            ],
+            "length": 24,
+            "width": 9,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -19.5, -12
+            ],
+            "length": 24,
+            "width": 9,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+               7,      -16,
+              19,       -7,
+              19,        9,
+               7,       18,
+             -19,       19,
+        
+             -19,      -17
+    ]
+}

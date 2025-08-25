@@ -16,12 +16,13 @@
     	"combatSmallForSmallFleet":{
 	},
         "combatSmall":{
-		"cr_matchlock_attack":5,
-		"cr_matchlock_strike":3,
-		"cr_matchlock_LG_attack":5,
-		"cr_matchlock_LG_strike":3,
-		"cr_cataphract_attack":4,
-		"cr_cataphract_strike":4,
+		"cr_viper_attack":5,
+		"cr_viper_strike":3,
+		"cr_viper_LG_attack":5,
+		"cr_viper_LG_strike":3,
+		"cr_cataphract_outdated":4,
+		"cr_cataphract_overdriven":3,
+		"cr_cataphract_elite":2,
 	},
 		"combatMedium":{
 		"cr_erinyes_strike":2,

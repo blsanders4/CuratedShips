@@ -14,5 +14,10 @@
             "cr_cataphract":0.8,
         },
     },
-
+	"knownFighters":{
+		"tags":["luddic_path"],
+		"fighters":[
+			"cr_kestros_wing",
+		],
+	},	
 },

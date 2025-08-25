@@ -1,0 +1,123 @@
+{
+    "hullName": "Viper",
+    "hullId": "cr_viper",
+    "hullSize": "FRIGATE",
+    "style": "MIDLINE",
+    "spriteName": "graphics/hulls/cr_viper.png",
+    "height": 73,
+    "width": 70,
+    "center": [
+        35, 36.5
+    ],
+    "collisionRadius": 60,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 54,
+    "viewOffset": 0,
+    "builtInMods": [
+        "missile_autoloader"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    17.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 45,
+            "locations": [
+                     4.5,       16
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 315,
+            "locations": [
+                     4.5,      -16
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                   -21.5,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -29, 25.5
+            ],
+            "length": 22,
+            "width": 6,
+            "angle": 180,
+            "contrailSize": 24,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -29, -25.5
+            ],
+            "length": 22,
+            "width": 6,
+            "angle": -180,
+            "contrailSize": 24,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -37, 15
+            ],
+            "length": 28,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 4,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -37, -15
+            ],
+            "length": 28,
+            "width": 8,
+            "angle": -180,
+            "contrailSize": 4,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+            28.5,      -17,
+              -7,      -34,
+           -24.5,    -32.5,
+           -36.5,    -20.5,
+           -36.5,     20.5,
+        
+           -24.5,     32.5,
+              -7,       34,
+              31,     19.5
+    ]
+}

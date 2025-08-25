@@ -1,0 +1,27 @@
+{
+    "displayName": "Support Fighter",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "cr_kestros",
+    "hullMods": [],
+    "quality": 1.0,
+    "variantId": "cr_kestros_Fighter",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "cr_shredder_fighter"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "swarmer_fighter",
+                "WS 001": "swarmer_fighter"
+            }
+        }
+    ]
+}
